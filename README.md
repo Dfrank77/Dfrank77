@@ -4,6 +4,17 @@ IAM and cloud security engineer building open-source Entra ID security tooling.
 
 **Portfolio:** [dfrank-iam.com](https://dfrank-iam.com)
 
+## Open Source
+
+Contributor to [Maester](https://github.com/maester365/maester), the open-source Entra/M365 security testing framework.
+
+| PR | What it does | Status |
+|---|---|---|
+| [#2395](https://github.com/maester365/maester/pull/2395) | MT.1224: Microsoft-managed CA policies left in report-only | Merged |
+| [#2403](https://github.com/maester365/maester/pull/2403) | MT.1210: PIM-eligible roles on agent users | Merged |
+| [#2434](https://github.com/maester365/maester/pull/2434) | MT.1223: Application.ReadUpdate.All as high-risk agent permission | In review |
+| [#2436](https://github.com/maester365/maester/pull/2436) | MT.1206: server-side filter for agent sign-in activity | In review |
+
 ## Entra ID Security Suite
 
 | Tool | What it does |
@@ -19,7 +30,7 @@ All tools run against any Entra ID tenant via Microsoft Graph with delegated per
 
 ## Stack
 
-Python, Microsoft Graph API, Terraform (azuread provider), aiohttp, NetworkX
+Python, PowerShell, Pester, Microsoft Graph API, Terraform (azuread provider), aiohttp, NetworkX
 
 ## Links
 
