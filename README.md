@@ -12,8 +12,8 @@ Contributor to [Maester](https://github.com/maester365/maester), the open-source
 |---|---|---|
 | [#2395](https://github.com/maester365/maester/pull/2395) | MT.1224: Microsoft-managed CA policies left in report-only | Merged |
 | [#2403](https://github.com/maester365/maester/pull/2403) | MT.1210: PIM-eligible roles on agent users | Merged |
-| [#2434](https://github.com/maester365/maester/pull/2434) | MT.1223: Application.ReadUpdate.All as high-risk agent permission | In review |
-| [#2436](https://github.com/maester365/maester/pull/2436) | MT.1206: server-side filter for agent sign-in activity | In review |
+| [#2434](https://github.com/maester365/maester/pull/2434) | MT.1223: Application.ReadUpdate.All as high-risk agent permission | Merged |
+| [#2436](https://github.com/maester365/maester/pull/2436) | MT.1206: server-side filter for agent sign-in activity | Merged |
 
 ## Entra ID Security Suite
 
