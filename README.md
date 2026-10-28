@@ -1,6 +1,6 @@
 # Darius Frank
 
-IAM and cloud security engineer building open-source Entra ID security tooling.
+I work in IAM and cloud security and build open-source Entra ID security tooling.
 
 **Portfolio:** [dfrank-iam.com](https://dfrank-iam.com)
 
