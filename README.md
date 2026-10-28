@@ -14,6 +14,8 @@ Contributor to [Maester](https://github.com/maester365/maester), the open-source
 | [#2403](https://github.com/maester365/maester/pull/2403) | MT.1210: PIM-eligible roles on agent users | Merged |
 | [#2434](https://github.com/maester365/maester/pull/2434) | MT.1223: Application.ReadUpdate.All as high-risk agent permission | Merged |
 | [#2436](https://github.com/maester365/maester/pull/2436) | MT.1206: server-side filter for agent sign-in activity | Merged |
+| [#2496](https://github.com/maester365/maester/pull/2496) | MT.1022/MT.1023: license gap and risk-based CA coverage | Merged |
+| [#2506](https://github.com/maester365/maester/pull/2506) | MT.1252: Exchange RBAC for Applications overlap with tenant-wide Graph grants | Merged |
 
 ## Entra ID Security Suite
 
